@@ -5,6 +5,11 @@ English [简体中文](https://github.com/yutianqaq/SharpZipAES/blob/main/README
 
 Tool developed using csharp (.net 4.5) for compressing and encrypting files to shorten transfer times. Supports multi-file compression and encryption, single-file compression, and directory compression.
 
+## feature
+- Only 10 KB in size
+- No need for disk interaction
+- More secure encryption method
+
 ```
  .\SharpZipAES.exe
 Author: Yutian
