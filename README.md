@@ -2,7 +2,13 @@
 
 [English](https://github.com/yutianqaq/SharpZipAES/blob/main/readme_en.md) 简体中文
 
-使用 csharp (.net 4.5)开发的工具，用于压缩和加密文件，以缩短传输时间。支持多文件压缩和加密、单文件压缩、目录压缩。
+使用 csharp (.net 4.5)开发的工具，用于压缩和加密文件，以缩短传输时间。支持多文件压缩和加密、单文件压缩、目录压缩和加密。
+
+## 特点
+
+- 仅 10 kb
+- 无需落地
+- 更安全的加密方式
 
 ```
  .\SharpZipAES.exe
